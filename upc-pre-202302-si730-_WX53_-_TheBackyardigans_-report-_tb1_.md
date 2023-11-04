@@ -1,13 +1,8 @@
-﻿Agosto – 2023
+﻿# Universidad Peruana de Ciencias Aplicadas
 
-Agosto – 2023
+![Logotipo Descripción generada automáticamente](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.003.png)
 
-![Portadas de trabajos universitarios en Word】 - Portadas Creativas](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.001.jpeg)![ref1]![ref1]
-**Universidad Peruana de Ciencias Aplicadas    <a name="_int_64llxbem"></a>UPC**   
-
-![Logotipo
-
-Descripción generada automáticamente](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.003.png)**Ingeniería de Sistemas y Computación | Ingeniería de Ciencias de la Computación**  
+**Ingeniería de Sistemas y Computación | Ingeniería de Software**  
 
 **Curso:** Aplicaciones Web
 
@@ -15,46 +10,57 @@ Descripción generada automáticamente](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1
 
 **Sección:** WX53
 
-![](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.004.png)
-
-**TB1**
+**TB2**
 
 **UNIQUE TRIPS** 
 
 Team Members
 
-Maguiña Corzo, Ricardo Jesus                             U202121858
+Maguiña Corzo, Ricardo Jesus - U202121858
 
-Onofre Ruiz, Carlos Jesus                   		U202115590	
+Onofre Ruiz, Carlos Jesus - U202115590	
 
-Ponce Loyola, Jorge Sebastian                            	U202120471
+Ponce Loyola, Jorge Sebastian - U202120471
 
-Arana Ramos, Jack		                          U202121875
+Arana Ramos, Jack - U202121875
 
-Regalado Morales Alyne Nayely 	            U20201A976 
+Regalado Morales Alyne Nayely - U20201A976 
 
 Agosto – 2023
 
+**
 
-![](Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.005.png)   	  	            	
-#
-#
-# <a name="_toc144562035"></a>Registro de Versiones del Informe
+**
 
-|Versión|Fecha|Autor|Entrega|
+# Registro de Versiones del Informe
+
+|Versión |Fecha |Autor |Descripción de modificación |
 | - | - | - | - |
-|1°|3/09/23|Ricardo Maguiña|<p>TB1</p><p></p>|
-|2°||<p>Ricardo Maguiña</p><p></p>|<p>TP</p><p></p>|
-|3°||<p>Ricardo Maguiña</p><p></p>|<p>TB3</p><p></p>|
-|4°||<p>Ricardo Maguiña</p><p></p>|<p>TF</p><p></p>|
+|TB1 |03/09/2023 |Jack Arana |Desarrollo del perfil de integrante, wireframes y del Domain-Driven Software Architecture y Software Object-Oriented Design. |
+|TB1 |03/09/2023 |Carlos Onofre |Elaboracion del capitulo V como el Source Code Management, Product UX/UI Design, los wireframes y los mockups. |
+|TB1 |03/09/2023 |Jorge Ponce |<p>Desarrollo de la landing page y Sprint 1 </p><p> </p>|
+|TB1 |03/09/2023 |Ricardo Maguiña |<p>Desarrollo del apartado Service-Offers y Sprint 2 </p><p> </p>|
+|TB1 |03/09/2023 |<p>Alyne Regalado </p><p> </p>|<p>Desarrollo del  <br>Web applications Wireframes </p><p>Web applications Wireflow Diagrams </p><p>Web Applications Mock-ups </p><p>Web Applications User Flow Diagrams </p>|
+|TP1 |28/09/2023 |Jack Arana  |Corrección del Domain-Driven y desarrollo del sprint 2, Sprint Planning 2 y Execution Evidence for Sprint Review. |
+|TP1 |28/09/2023 |Carlos Onofre |Elaboracion del Sprint Backlog 2 y Development Evidence for Sprint Review. |
+|TP1 |28/09/2023 |Jorge Ponce |Desarrollo del sprint 2, Services Documentation Evidence for Sprint Review. |
+|TP1 |28/09/2023 |Ricardo Maguiña |<p>Desarrollo del sprint 2, Software Deployment Evidence for Sprint Review y Services Documentation Evidence for Sprint Review. </p><p> </p>|
+|TP1 |28/09/2023 |Alyne Regalado |<p>Desarrollo del sprint 2. </p><p>Elaboracion del front </p>|
+|TB2 |2/11/2023 |Jack Arana  |Desarrollo del Services Documentation Evidence for Sprint 3 Review y Software Deployment Evidence for Sprint 3 Review |
+|TB2 |<p>2/11/2023 </p><p> </p>|Carlos Onofre |Desarrollo de las entrevistas de validacion |
+|<p>TB2 </p><p> </p>|<p>2/11/2023 </p><p> </p>|Jorge Ponce |Desarrollo del sprint 3, Sprint Planning 3 y Sprint Backlog 3 y Development Evidence for Sprint Review. |
+|<p>TB2 </p><p> </p>|<p>2/11/2023 </p><p> </p>|Ricardo Maguiña |Desarrollo del Team Collaboration Insights during Sprint y Video About-the-Product |
+|<p>TB2 </p><p> </p>|<p>2/11/2023 </p><p> </p>|Alyne Regalado |<p>Mejora continua. </p><p>Colaboracion en Testing Suite Evidence for Sprint Review </p><p>` `Execution Evidence for Sprint Review </p><p> </p>|
 
 
+# Project Report Collaboration Insights
 
+[**Enlace a nuestro Repositorio en GitHub**](https://github.com/orgs/App-Web-Grupo3/repositories) 
 
+[**Enlace al video de exposición en Microsoft Stream**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EZG1sun0y0xNgN54286NE00B35TC_56TDmxFRQmgSv2Mow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=a1kzUN) 
 
 
 # Contenido
-[Registro de Versiones del Informe	2](#_toc144562035)
 
 [**Student Outcome**	6](#_toc144562036)
 
@@ -202,43 +208,32 @@ Agosto – 2023
 
 [5.2.2. Sprint 2	103](#_toc144562117)
 
-[**5.3. Validation Interviews**	111](#_toc144562118)
+[5.2.3. Sprint 3	104](#_toc144562118)
 
-[5.3.1. Diseño de Entrevistas	111](#_toc144562119)
+[**5.3. Validation Interviews**	111](#_toc144562119)
 
-[5.3.2. Registro de Entrevistas	111](#_toc144562120)
+[5.3.1. Diseño de Entrevistas	111](#_toc144562120)
 
-[5.3.3. Evaluaciones según heurísticas	111](#_toc144562121)
+[5.3.2. Registro de Entrevistas	111](#_toc144562121)
 
-[**5.4. Video About-the-Product**	111](#_toc144562122)
+[5.3.3. Evaluaciones según heurísticas	111](#_toc144562122)
 
-[**Conclusiones**	111](#_toc144562123)
+[**5.4. Video About-the-Product**	111](#_toc144562123)
 
-[**Bibliografía**	112](#_toc144562124)
+[**Conclusiones**	111](#_toc144562124)
 
-[**Anexos**	113](#_toc144562125)
+[**Bibliografía**	112](#_toc144562125)
 
-
-
-
-
-**                                                                                                                      
-**
+[**Anexos**	113](#_toc144562126)
 
 
+# <a name="_toc144562036"></a>Student Outcome
 
 
-
-
-<a name="_toc144562036"></a>**Student Outcome**   
-
-
-
-|**Criterio específico** |**Acciones realizadas** |**Conclusiones** |
+|**Criterio específico**  |**Acciones realizadas**  |**Conclusiones**  |
 | :-: | :-: | :-: |
-|<p>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</p><p></p><p></p>|<p>**TB1**                                                           </p><p>***Ponce Loyola, Jorge Sebastian*** </p><p>Durante la TB1, contribuí eficazmente al equipo multidisciplinario en un proyecto de ingeniería de software, enfocándome en la Information Architecture. Participé en la organización, etiquetado, SEO, navegación y sistemas de búsqueda para mejorar la experiencia del usuario en aplicaciones web y móviles.</p><p>                         </p><p>***Arana Ramos, Jack***</p><p>Durante la TB1, mi enfoque se centró en la arquitectura de software, el diseño orientado a objetos y la estructura de la base de datos. Estas actividades fueron cruciales para garantizar la solidez y la eficiencia de nuestro proyecto de ingeniería de software.</p><p></p><p>***Onofre Ruiz, Carlos Jesus***</p><p>Durante la TB1, mi enfoque es demostrar la eficiencia al momento de hacer uso de plataforma que nos permitan trabajar en equipo y poder controlar las versiones con ayuda de Github, haciendo uso de los repositorios. Sabemos que Github tiene la opcion de mostrar el avance de cada integrante de esta manera visualizamos que todos lleguen a completar las competetencias de manera exitosa.</p><p>                        </p><p>***Maguiña Corzo , Ricardo Jesus***</p><p>Durante el primer trimestre (TB1) del proyecto, lideré la investigación de Needfinding, centrando mis esfuerzos en crear una base sólida. Esto incluyó la creación de user personas, una matriz de tareas del usuario, sesiones de empatía y el mapeo de escenarios actuales. Estas actividades fueron cruciales para diseñar un producto que se adaptara a las necesidades de nuestros usuarios y contribuyó al éxito de nuestro proyecto centrado en el usuario. </p><p>***Regalado Morales Alyne Nayely*** </p><p>Durante la TB1, desempeñé un papel de investigación de información y el análisis de la problemática. Mi enfoque principal se centró en detallar la startup, identificar sus antecedentes y desafíos, comprender el proceso de Lean UX y definir nuestro público objetivo. Considero que la recopilación de información fue una etapa crucial, y a partir de ese punto, avanzamos hacia la creación de historias de usuario para seguir con la elaboración del prototipo de la aplicación web.</p><p></p><p></p><p></p><p></p><p>                 </p>|<p></p><p></p>|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<p>**TB1**</p><p>***Ponce Loyola, Jorge Sebastian*** </p><p>Durante la TB1, he adquirido un profundo conocimiento del sector empresarial relacionado con el turismo, aplicando mis habilidades en Information Architecture específicamente en el contexto de una aplicación web para descubrir nuevos destinos turísticos. Mi enfoque se centró en la organización, etiquetado, SEO, navegación y sistemas de búsqueda, asegurando que los usuarios encuentren con facilidad la información necesaria para una experiencia turística fluida y enriquecedora.     </p><p>                   </p><p>***Arana Ramos, Jack***</p><p>Mi enfoque durante la TB1 se centró en la construcción de una arquitectura de software sólida y orientada al negocio, que cumpliera con los requisitos y objetivos específicos del dominio empresarial. Estas actividades fueron fundamentales para garantizar que nuestro software fuera capaz de abordar con éxito los desafíos y necesidades empresariales.</p><p></p><p>***Onofre Ruiz, Carlos Jesus***</p><p>Durante la TB1, aplique conceptos previos para poder realizar con exito como el Software Configuration Management, esta parte nos sirvio para poder identificar las herramientas que usamos como a su vez la manera de desplegar nuestra Landing Page por medio de Github Pages mostrando paso a paso para que se logre entender como se realizo.</p><p></p><p>                         </p><p>***Maguiña Corzo, Ricardo Jesus***</p><p>Durante el primer trimestre (TB1) del proyecto, lideré la investigación de Needfinding, centrando mis esfuerzos en crear una base sólida. Esto incluyó el enfoque en la investigación de información, análisis de la problemática, identificación de antecedentes y desafíos, así como la comprensión del proceso de creación de user personas, una matriz de tareas del usuario, sesiones de empatía y el mapeo de escenarios actuales. Estas actividades fueron cruciales para diseñar un producto que se adaptara a las necesidades de nuestros usuarios y contribuyó al éxito de nuestro proyecto centrado en el usuario. </p><p>***Regalado Morales Alyne Nayely***</p><p>El enfoque en la investigación de información, análisis de la problemática, identificación de antecedentes y desafíos, así como la comprensión del proceso de Lean UX y la definición del público objetivo, he comprendido de manera profunda del dominio y la importancia de recopilar información clave antes de avanzar en el desarrollo de una aplicación ya que en base a esto, se forma un base sólida. </p><p></p><p></p>||
-
+|<p>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. </p><p> </p><p> </p>|<p>**TB1**                                                            </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>Durante la TB1, contribuí eficazmente al equipo multidisciplinario en un proyecto de ingeniería de software, enfocándome en la Information Architecture. Participé en la organización, etiquetado, SEO, navegación y sistemas de búsqueda para mejorar la experiencia del usuario en aplicaciones web y móviles. </p><p>                          </p><p>***Arana Ramos, Jack*** </p><p>Durante la TB1, mi enfoque se centró en la arquitectura de software, el diseño orientado a objetos y la estructura de la base de datos. Estas actividades fueron cruciales para garantizar la solidez y la eficiencia de nuestro proyecto de ingeniería de software. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>Durante la TB1, mi enfoque es demostrar la eficiencia al momento de hacer uso de plataforma que nos permitan trabajar en equipo y poder controlar las versiones con ayuda de Github, haciendo uso de los repositorios. Sabemos que Github tiene la opcion de mostrar el avance de cada integrante de esta manera visualizamos que todos lleguen a completar las competetencias de manera exitosa. </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p>Durante el primer trimestre (TB1) del proyecto, lideré la investigación de Needfinding, centrando mis esfuerzos en crear una base sólida. Esto incluyó la creación de user personas, una matriz de tareas del usuario, sesiones de empatía y el mapeo de escenarios actuales. Estas actividades fueron cruciales para diseñar un producto que se adaptara a las necesidades de nuestros usuarios y contribuyó al éxito de nuestro proyecto centrado en el usuario. </p><p> </p><p> </p><p>***Regalado Morales Alyne Nayely***  </p><p>Durante la TB1, desempeñé un papel de investigación de información y el análisis de la problemática. Mi enfoque principal se centró en detallar la startup, identificar sus antecedentes y desafíos, comprender el proceso de Lean UX y definir nuestro público objetivo. Considero que la recopilación de información fue una etapa crucial, y a partir de ese punto, avanzamos hacia la creación de historias de usuario para seguir con la elaboración del prototipo de la aplicación web. </p><p> </p><p>**TP1** </p><p> </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>Durante la TP1, participé eficazmente en un equipo multidisciplinario en un proyecto de ingeniería de software, contribuyendo al desarrollo del Sprint 2 y creando documentación de servicios para la revisión del sprint. Esta experiencia fortaleció mis habilidades de colaboración, desarrollo y documentación, preparándome para futuros desafíos en proyectos similares.   </p><p>                       </p><p>***Arana Ramos, Jack*** </p><p>Durante la TP1, mi contribución se centró en la ejecución exitosa del Sprint 2, sprint planing 3 y execution evidence for sprint review, que fue fundamental en la revisión de dicho sprint. Esta experiencia enriqueció mis aptitudes para trabajar en equipo, impulsó mi crecimiento en el ámbito del desarrollo y me preparó para afrontar futuros desafíos en proyectos similares. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p> </p><p>Durante la TP1, mi contribución se centró en Service-Offers durante el Sprint 2, que fue fundamental en la revisión de dicho sprint. Esta experiencia enriqueció mis aptitudes para trabajar en equipo, impulsó mi crecimiento en el ámbito del desarrollo y me preparó para afrontar futuros desafíos en proyectos similares. </p><p> </p><p>***Regalado Morales Alyne Nayely***  </p><p> </p><p>**TB2** </p><p> </p><p>***Ponce Loyola, Jorge Sebastian*** </p><p> </p><p>Durante la TB2, al participar en el Sprint Planning 3, gestionar el Sprint Backlog 3 y presentar evidencia de desarrollo durante el Sprint Review, he fortalecido mi capacidad para trabajar en equipos multidisciplinarios en proyectos de ingeniería de software. Esta experiencia me ha proporcionado una comprensión más profunda de los desafíos específicos y las necesidades del campo, preparándome para contribuir de manera más efectiva en futuras iniciativas dentro de esta área . </p><p> </p><p>***Arana Ramos, Jack*** </p><p> </p><p>Durante la TB2, en el Sprint 3, mi enfoque se centró en el desarrollo de la Documentación de Servicios y la Evidencia de Despliegue de Software para la Revisión del Sprint. Estas actividades me han brindado valiosas oportunidades para mejorar mis habilidades de colaboración en equipos dentro del ámbito de la ingeniería de software. Al mismo tiempo, he ganado una comprensión más profunda de los desafíos específicos de esta disciplina, lo que me ha mejorado en términos de preparación para aportar de manera más efectiva en proyectos futuros. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p> </p><p>Durante la TB2, al participar en el Team Collaboration Insights during Sprint y el Video About the Product, he fortalecido mi capacidad para trabajar en equipos multidisciplinarios en proyectos de ingeniería de software. Esta experiencia me ha proporcionado una comprensión más profunda de los desafíos específicos y las necesidades del campo, preparándome para contribuir de manera más efectiva en futuras iniciativas dentro de esta área. </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p>En el transcurso del  sprint 3 para la entrega de la TB2 fue parte de la mejora continua lo cual implica la mejora de la interfaz. Además, contribuí significativamente creando la estructura del sistema backend y desarrollando pruebas que permitieron avanzar de manera colaborativa en el proyecto. Utilizamos el sistema de control de versiones Git para gestionar nuestro trabajo de manera eficiente. En cuanto al informe, mi participación se centró en Execution Evidence for Sprint Review, colaboracion en Testing Suite Evidence for Sprint Review y en la Validation Interviews. </p><p> </p><p>**TF** </p><p> </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>      </p><p>***Arana Ramos, Jack*** </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p> </p><p> </p><p> </p><p>                  </p>|<p>**TB1** </p><p>En conclusión, nos enfocamos en diversas áreas clave, como la mejora de la experiencia del usuario, la arquitectura de software, el control de versiones, la investigación de Needfinding y la recopilación de información. Estas contribuciones conjuntas sentaron las bases para el éxito de nuestro proyecto y subrayaron el progreso significativo en nuestro desarrollo y comprensión del campo de la ingeniería de software. </p><p>**TP** </p><p>En conclusión, no nos enfocamos en áreas clave como el desarrollo de sprints, la creación de documentación de servicios y la ejecución exitosa de tareas de revisión. Estas experiencias enriquecieron sus habilidades de colaboración, desarrollo y documentación, preparándonos para futuros desafíos en proyectos similares. El trabajo conjunto en el Sprint 2 y el fortalecimiento de sus competencias subrayan el progreso continuo en el campo de la ingeniería de software y su preparación para afrontar con éxito futuros proyectos. </p><p>**TB2** </p><p>En conclusión, avanzó significativamente nuestra capacidad para trabajar de manera efectiva en proyectos de ingeniería de software. Esto se reflejó en un mayor entendimiento de los desafíos específicos y las necesidades del campo, lo que nos preparó para contribuir de manera más efectiva en futuras iniciativas en esta área. Las actividades realizadas, como la Documentación de Servicios, el Despliegue de Software y la colaboración en equipos multidisciplinarios, contribuyeron al desarrollo de habilidades esenciales y al progreso en el campo de la ingeniería de software. </p><p> <br> </p>|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |<p>**TB1** </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>Durante la TB1, he adquirido un profundo conocimiento del sector empresarial relacionado con el turismo, aplicando mis habilidades en Information Architecture específicamente en el contexto de una aplicación web para descubrir nuevos destinos turísticos. Mi enfoque se centró en la organización, etiquetado, SEO, navegación y sistemas de búsqueda, asegurando que los usuarios encuentren con facilidad la información necesaria para una experiencia turística fluida y enriquecedora.      </p><p>                    </p><p>***Arana Ramos, Jack*** </p><p>Mi enfoque durante la TB1 se centró en la construcción de una arquitectura de software sólida y orientada al negocio, que cumpliera con los requisitos y objetivos específicos del dominio empresarial. Estas actividades fueron fundamentales para garantizar que nuestro software fuera capaz de abordar con éxito los desafíos y necesidades empresariales. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>Durante la TB1, aplique conceptos previos para poder realizar con exito como el Software Configuration Management, esta parte nos sirvio para poder identificar las herramientas que usamos como a su vez la manera de desplegar nuestra Landing Page por medio de Github Pages mostrando paso a paso para que se logre entender como se realizo. </p><p> </p><p> </p><p>***Maguiña Corzo, Ricardo Jesus*** </p><p>Durante el primer trimestre (TB1) del proyecto, lideré la investigación de Needfinding, centrando mis esfuerzos en crear una base sólida. Esto incluyó el enfoque en la investigación de información, análisis de la problemática, identificación de antecedentes y desafíos, así como la comprensión del proceso de creación de user personas, una matriz de tareas del usuario, sesiones de empatía y el mapeo de escenarios actuales. Estas actividades fueron cruciales para diseñar un producto que se adaptara a las necesidades de nuestros usuarios y contribuyó al éxito de nuestro proyecto centrado en el usuario. </p><p> </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p>El enfoque en la investigación de información, análisis de la problemática, identificación de antecedentes y desafíos, así como la comprensión del proceso de Lean UX y la definición del público objetivo, he comprendido de manera profunda del dominio y la importancia de recopilar información clave antes de avanzar en el desarrollo de una aplicación ya que en base a esto, se forma un base sólida.  </p><p> </p><p>**TP1** </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>Durante la TP1, adquirí conocimientos profundos en un sector empresarial específico, centrándome en soluciones de software aplicadas a ese dominio. Esto me proporcionó una comprensión sólida de las necesidades y desafíos únicos de dicho sector, preparándome para futuros proyectos y aplicaciones en esa área.  </p><p>                        </p><p>***Arana Ramos, Jack*** </p><p>Durante la TP1, logré adquirir un profundo entendimiento, enfocándome en la creación de soluciones de software específicas para ese dominio. Este proceso me proporcionó una sólida comprensión de las necesidades y desafíos únicos que caracterizan a esta industria en particular, lo que me ha dejado bien preparado para abordar con éxito futuros proyectos y aplicaciones dentro de este ámbito. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p> </p><p>Durante la TP1, en el contexto del desarrollo del apartado de Service-Offers durante el Sprint 2, he consolidado mis conocimientos en un ámbito empresarial particular, enfocándome en la creación de soluciones de software destinadas a ese dominio específico. Esto ha contribuido a que desarrolle una comprensión sólida de las necesidades y retos distintivos que caracterizan a esta industria, lo que me ha preparado para abordar con éxito proyectos y aplicaciones futuras en este campo. </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p> </p><p>Durante el desarrollo de TP me enfoque en desarrollar el front principal de uno de los usuario, en este caso del usuario empresa. Para esto, emplemos conceptos y herramientas nuevas adquiridas en esta primera mitad del ciclo.  </p><p> </p><p>**TB2** </p><p> </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>Durante la TB2, al participar en el Sprint Planning 3, gestionar el Sprint Backlog 3 y presentar evidencia de desarrollo durante el Sprint Review, he fortalecido mi capacidad para trabajar en equipos multidisciplinarios en proyectos de ingeniería de software, centrándome en el conocimiento de un sector empresarial específico. Esta experiencia me ha brindado una comprensión más profunda de los desafíos y necesidades únicas de este sector, preparándome para contribuir de manera más efectiva en futuras iniciativas en este ámbito específico de aplicaciones de soluciones de software. </p><p> </p><p>***Arana Ramos, Jack*** </p><p>Durante la TB2, he ampliado mi capacidad para colaborar en proyectos de ingeniería de software, centrándome en la comprensión de un dominio empresarial específico. Esta experiencia me ha proporcionado un conocimiento más sólido de los desafíos y requisitos distintivos de dicho sector, cumpliendo con el criterio específico de conocer al menos un sector empresarial o dominio de aplicación de soluciones de software. Por lo cual, esto me prepara de manera más efectiva para contribuir en futuros proyectos. </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p>Durante la TB2, al participar en el Team Collaboration Insights during Sprint y el Video About the Product, he mejorado mi habilidad para colaborar en equipos multidisciplinarios en proyectos relacionados con la ingeniería de software, concentrándome en la comprensión de un sector empresarial particular. Esta vivencia me ha proporcionado un entendimiento más sólido de los obstáculos y requisitos distintivos de dicho sector, lo que me ha preparado para participar de manera más eficaz en futuras empresas relacionadas con soluciones de software en este ámbito específico. </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p> </p><p>Durante el sprint 3 desarrollé un conjunto de habilidades. Fui parte de la mejora continua al contribuir con la optimización de la interfaz. Además, cree la estructura del sistema backend lo que me desafió en términos de programación. La capacidad para desarrollar las pruebas unitarias fue fundamental para avanzar con el proyecto de manera colaborativa. En cuanto a la generación del informe mi participación me permitió mejorar mis habilidades para la redacción y comunicación efectiva. Estas experiencias han enriquecido mis habilidades en el desarrollo ágil y proyectos de software.   </p><p> </p><p> </p><p>**TF** </p><p> </p><p>***Ponce Loyola, Jorge Sebastian***  </p><p>      </p><p>***Arana Ramos, Jack*** </p><p> </p><p>***Onofre Ruiz, Carlos Jesus*** </p><p>                         </p><p>***Maguiña Corzo , Ricardo Jesus*** </p><p> </p><p>***Regalado Morales Alyne Nayely*** </p><p> </p>|<p>**TB1** </p><p>En conclusión,  adquirimos un profundo conocimiento del sector empresarial relacionado con el turismo, así como habilidades específicas en Information Architecture, arquitectura de software, gestión de configuración de software, y técnicas de investigación de Needfinding y Lean UX. Estas experiencias fortalecieron sus capacidades en la comprensión de los desafíos y necesidades de dominios empresariales específicos, y subrayan la importancia de recopilar información clave como base sólida para el desarrollo de aplicaciones. Estos logros colectivos los preparan de manera efectiva para futuros desafíos en proyectos relacionados con el turismo y otros dominios empresariales. </p><p>**TP** </p><p>En conclusión, adquirimos un profundo conocimiento en un sector empresarial específico, enfocándose en la creación de soluciones de software aplicadas a ese dominio. Esto nos proporcionó una comprensión sólida de las necesidades y desafíos únicos de ese sector, preparándonos para abordar con éxito futuros proyectos y aplicaciones en esa área en particular. El proceso de desarrollo de soluciones de software dentro de un contexto empresarial específico fortaleció su preparación y conocimiento en ese campo. </p><p>**TB2** </p><p>En conclusión, mejoramos en la capacidad para trabajar en proyectos de ingeniería de software, centrándonos en la comprensión de un dominio empresarial específico. Esto nos proporcionó un conocimiento más sólido de los desafíos y requisitos distintivos de ese sector, cumpliendo con el criterio específico de conocer al menos un sector empresarial o dominio de aplicación de soluciones de software. Estas experiencias los han preparado de manera efectiva para contribuir en futuros proyectos relacionados con ese ámbito específico. El equipo ha enriquecido sus habilidades en el desarrollo ágil y proyectos de software, y ha fortalecido su capacidad para trabajar en equipos multidisciplinarios, lo que les prepara para afrontar con éxito futuros desafíos en este campo. </p>|
 
 
 
@@ -2053,105 +2048,789 @@ Commits:
 ![ref12]
 
 
+## 5\.2.2. Sprint 2  
 
-<a name="_toc144562122"></a>**5.4. Video About-the-Product**
-**
+### 5\.2.2.1.Sprint Planning 2.  
 
-
-<a name="_toc144562123"></a>**Conclusiones**
-
-- Una página web bien diseñada y fácil de usar proporciona una experiencia agradable para los usuarios. Pueden buscar y comparar destinos, ver opciones de alojamiento, leer reseñas de otros viajeros y realizar reservas de manera rápida y sencilla. Esto mejora la satisfacción del cliente y fomenta la fidelidad hacia la agencia.
-
-- Con una página web, la agencia de viajes puede automatizar muchos procesos, como la gestión de reservas, el envío de confirmaciones por correo electrónico, la emisión de boletos electrónicos, entre otros. Esto reduce la carga de trabajo manual y agiliza las operaciones.
-
-- Una página web para una agencia de viajes brinda beneficios significativos, como mayor accesibilidad, mejor experiencia de usuario, promoción efectiva, automatización de procesos y análisis de datos. Esto contribuye a fortalecer la presencia de la agencia en línea y a mejorar la satisfacción del cliente.
-
-
-
-
-**	
-
-<a name="_toc144562124"></a>**
-
-**Bibliografía**
-
-Arimany, L. (2010). *La Cadena de Valor*. Recuperado de:[ ](https://www.luisarimany.com/la-cadena-de-valor/)<https://www.luisarimany.com/la-cadena-de-valor/> [Consulta: 28 de junio de 2022].
+|**Sprint #** |Sprint 2 |
+| :- | :- |
+|**Sprint Planning Background** ||
+|Date |2023-09-22 |
+|Time |10:00 am |
+|Location |Reunión virtual - Meet |
+|Prepared By |Jack Arana |
+|Attendees (to planning meeting) |Jorge Ponce, Alyne Regalado, Ricardo Maguiña,  Carlos Onofre y Jack Arana |
+|Sprint n – 1 Review Summary |Corregir el Landing Page y hacerlo responsive |
+|Sprint n – 1 Retrospective Summary |Mejorar el código y documento con respecto a la primera entrega |
+|**Sprint Goal & User Stories** ||
+|Sprint 2 Goal |Avanzar en el web application y actualizar el documento de forma acorde |
+|Sprint n Velocity |20 Story Points |
+|Sum of Story Points |15 Story Points |
 
 
 
-Computrabajo. (2022). *¿Cuál es el sueldo de Técnico/a de soporte?*.Recuperado de:[ ](https://www.computrabajo.com.pe/salarios/tecnicoa-de-soporte)<https://www.computrabajo.com.pe/salarios/tecnicoa-de-soporte> [Consulta: 27 de junio de 2022].
+
+
+### 5\.2.2.2.Sprint Backlog 2.  
+
+|Sprint #   |Sprint 2 |||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story   |Work-Item / Task   |||||||
+|<p>   </p><p>   </p><p>Id   </p>|<p>   </p><p>   </p><p>Title   </p>|<p>   </p><p>   </p><p>Id   </p>|<p>   </p><p>   </p><p>Title   </p>|<p>   </p><p>   </p><p>Description   </p>|<p>   </p><p>   </p><p>Estimation (Hours)   </p>|<p>   </p><p>   </p><p>Assigned To   </p>|Status  |
+|US1 |Registro de Usuario |T1 |Registro de Usuario |El usuario se registra en la plataforma y puede acceder a los servicios turísticos. |6 |Jorge |In Process |
+|US2 |Inicio de Sesión de Usuario |T2 |Inicio de Sesión de Usuario |El usuario registrado, inicia su sesión y puede acceder a sus funcionalidades respectivas. |6 |Jorge |In Process |
+|US4 |Búsqueda de Servicios Turísticos en el navbar. |T4 |Búsqueda de Servicios Turísticos |El usuario busca servicio turisticos por destino y fecha . |10 |Jack |In Process |
+|US04 |Reserva de Servicios Turísticos |T4 |Reserva de Servicios Turísticos |El usuario puede reserva un servicio turistico |10 |Carlos |In Process |
+|US10 |**Integración de Pagos** |T10 |<p>**Integración de Pagos** </p><p> </p>|El usuario puede pagar los servicios de forma rapida y sencilla |8 |Jack |In Process |
+|US12 |Administración de Perfil y Servicios (Admin) |T12 |Administración de Perfil y Servicios (Admin) |El administrador de empresa local tiene acceso a una plataforma para gestionar mi perfil y servicios en la plataforma |12 |Alyne |<p>In Process </p><p> </p>|
 
 
 
-De la Cruz, I. (s.f.). Gestión de Recursos Humanos. Recuperado de[ ](https://bit.ly/2AvVG7D)<https://bit.ly/2AvVG7D> [Consulta: 1 de julio de 2022].
+5\.2.2.3.Development Evidence for Sprint Review.  
+
+<table><tr><th valign="top">Repository </th><th valign="top">Branch </th><th valign="top">Commit Id </th><th valign="top">Commit Message </th><th valign="top">Commit Message Body </th><th valign="top">Commited on (Date) </th></tr>
+<tr><td rowspan="5" valign="top">Web-Application-FrontEnd </td><td valign="top">feature/service-oferta </td><td valign="top">9db679a980f93c6c26ba56c01d3237588dfa6b6f </td><td valign="top">footer </td><td valign="top">Una vez hecho el merge realizamos modificaciones en el footer </td><td valign="top">27/09/23 </td></tr>
+<tr><td valign="top">feature/favorite-service </td><td valign="top">8f2f852011caf90c2b7ce07dd9bf723f8fc8db2a </td><td valign="top">Merge branch 'develop' into feature/favorite-service </td><td valign="top">Se hizo merge del feature/favorite-service </td><td valign="top">27/09/23 </td></tr>
+<tr><td valign="top">feature/auth </td><td valign="top">42c8708c1ec1ad3365225b361b5c033c59f62ca2 </td><td valign="top">feat(login/registrer) add login and register component </td><td valign="top">Se modifico el apartado de login y registro </td><td valign="top">27/09/23 </td></tr>
+<tr><td valign="top">feature/service-info </td><td valign="top">758c0e27fe37c37bfb86ebd068ae0c5073b0ec51 </td><td valign="top">chore(service-info): Add Interface Service Information v1 </td><td valign="top">Agregacion de servicios de informacion </td><td valign="top">27/09/23 </td></tr>
+<tr><td valign="top">feature/home-empresa </td><td valign="top">34e6290dd6c782f0f13862ef20211b489568efc2 </td><td valign="top">Actualizacion componente card </td><td valign="top">Se realizaron cambios en el componente card </td><td valign="top">27/09/23 </td></tr>
+</table>
+
+![Captura de pantalla de computadora Descripción generada automáticamente con confianza media](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.001.png) 
+
+Enlace del Front End del Proyecto: <https://github.com/App-Web-Grupo3/Web-Application-FrontEnd/tree/develop> 
 
 
 
-Diario del exportador. (s.f.). *El Marketing Mix: Plaza*. Recuperado de[ ](https://bit.ly/2B0gPHb)<https://bit.ly/2B0gPHb> [Consulta: 30 de junio de 2022].
+
+
+5\.2.2.4.Testing Suite Evidence for Sprint Review.  
+
+En estos dos sprints, el enfoque principal del desarrollo se ha centrado en la implementación del front-end, lo que significa que no se han agregado nuevas funcionalidades o lógica de negocio que requiera pruebas exhaustivas. Sin embargo, las historias de usuario asociadas a estos sprints se han centrado en la interfaz de usuario y la experiencia del usuario. A continuación, se enumeran las historias de usuario relacionadas:  
+
+![TextoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.002.png) 
+
+5\.2.2.5.Execution Evidence for Sprint Review. 
+
+Para el desarrollo de este sprint, el equipo de desarrollo se enfocó en la correccion del landing page y en la creación e implementación de la Aplicación Web, teniendo en cuenta los lineamientos de estilo establecidos previamente y siguiendo el diseño detallado en los Wireframes y Mockups. 
+
+**Capturas de Pantalla del Landing Page:** 
+
+![Interfaz de usuario gráfica, Sitio webDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.003.png) 
+
+![Interfaz de usuario gráfica, Sitio webDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.004.png) 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.005.png) 
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.006.png) 
+
+![Interfaz de usuario gráfica, Sitio webDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.007.png) 
+
+![Captura de pantalla de un celularDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.008.png)
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.009.png) 
 
 
 
-Emprendepyme.net. (27 de octubre de 2017). ¿Qué es el plan de recursos humanos? [Entrada en blog] . Recuperado de[ ](https://bit.ly/3eJ7LoT)<https://bit.ly/3eJ7LoT> [Consulta: 2 de julio de 2022].
+**Capturas de Pantalla de la Aplicación Web:** 
+
+![Interfaz de usuario gráfica, Texto, Aplicación, Chat o mensaje de textoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.010.png) 
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.011.png) 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.012.png) 
 
 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.013.png) 
+
+![Interfaz de usuario gráfica, Sitio webDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.014.png) 
+
+
+
+**Enlace al reposito del Landing Page:** 
+
+[App-Web-Grupo3/landing-page (github.com)](https://github.com/App-Web-Grupo3/landing-page) 
+
+**Enlace al reposito de la Aplicación Web:** 
+
+[App-Web-Grupo3/Web-Application-FrontEnd (github.com)](https://github.com/App-Web-Grupo3/Web-Application-FrontEnd) 
+
+**ID de Commits relacionados:** 
+
+![Captura de pantalla de un celularDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.015.png) 
+
+
+
+5\.2.2.6. Services Documentation Evidence for Sprint Review.  
+
+En el Sprint 2, hemos continuado nuestro trabajo en el proyecto y hemos alcanzado importantes hitos en la implementación de nuevas funcionalidades y mejoras en nuestra plataforma. A continuación, presentamos un resumen de los logros y avances clave durante este Sprint. 
+
+User Story 1: Registro de Usuario 
+
+Descripción: En este Sprint, hemos implementado la funcionalidad de registro de usuario. Los usuarios pueden registrarse en nuestra plataforma para acceder a nuestros servicios turísticos. 
+
+User Story 2: Inicio de Sesión de Usuario 
+
+Descripción: También hemos implementado la función de inicio de sesión de usuario, lo que permite a los usuarios registrados acceder a sus funcionalidades correspondientes. 
+
+User Story 4: Búsqueda de Servicios Turísticos en el Navbar 
+
+Descripción: Para mejorar la experiencia del usuario, hemos agregado una barra de búsqueda en el Navbar. Los usuarios pueden buscar servicios turísticos por destino y fecha. 
+
+User Story 4 (Corrección): Reserva de Servicios Turísticos 
+
+Descripción: Los usuarios ahora pueden reservar los servicios turísticos que encuentren mediante la función de búsqueda. 
+
+User Story 10: Integración de Pagos 
+
+Descripción: Hemos implementado la integración de pagos en nuestra plataforma. Los usuarios pueden pagar por los servicios de manera rápida y sencilla. 
+
+User Story 12: Administración de Perfil y Servicios (Admin) 
+
+Descripción: Se ha habilitado la administración de perfiles y servicios para los administradores de empresas locales. Esto les permite gestionar sus perfiles y servicios en la plataforma. 
+
+Capturas de Pantalla 
+
+A continuación, se muestran algunas capturas de pantalla de las funcionalidades implementadas en este Sprint: 
+
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónicoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.016.png) 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.017.png) 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.018.png) 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.019.png) 
+
+![Interfaz de usuario gráfica, Sitio webDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.020.png) 
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.021.png) 
+
+![Interfaz de usuario gráfica, Aplicación, TeamsDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.022.png) 
+
+
+
+5\.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Sprint de Colaboración en Equipo: Desarrollo del Sistema de Reserva de Viajes Turísticos 
+
+1\. Inicio de Sesión (Login): 
+
+Durante el Sprint, el equipo se enfocó en implementar una sólida funcionalidad de inicio de sesión. 
+
+El equipo de desarrollo colaboró estrechamente con el equipo de diseño para garantizar una experiencia de usuario fluida. 
+
+Se realizaron pruebas exhaustivas de seguridad y autenticación para proteger la información del usuario. 
+
+Se recopilaron comentarios de los usuarios para realizar ajustes y mejoras en la interfaz de inicio de sesión. 
+
+2\. Catálogo para Comprar Viajes: 
+
+La colaboración entre desarrolladores, diseñadores y el equipo de ventas fue clave en esta fase. 
+
+Se implementó una interfaz de usuario atractiva y fácil de usar para explorar y seleccionar viajes turísticos. 
+
+Se realizó una integración fluida con el sistema de reservas para garantizar una experiencia de compra sin problemas. 
+
+Los comentarios de los usuarios se recopilaron mediante pruebas de usabilidad y se utilizaron para optimizar la navegación y la búsqueda de viajes. 
+
+3\. Sección de Perfil del Usuario: 
+
+El equipo de desarrollo y el equipo de atención al cliente colaboraron estrechamente para definir los datos y las funciones necesarias en la sección de perfil del usuario. 
+
+Se implementaron características como la gestión de reservas, la revisión del historial de viajes y la personalización de preferencias. 
+
+Se hicieron pruebas exhaustivas para garantizar la seguridad de la información del usuario y la privacidad de los datos. 
+
+Los comentarios de los usuarios sobre la comodidad y la facilidad de uso de la sección de perfil se incorporaron para mejoras adicionales. 
+
+Resultados y Próximos Pasos: 
+
+El equipo logró una implementación exitosa de las funciones de inicio de sesión, catálogo de viajes y perfil del usuario en el tiempo asignado para el Sprint. 
+
+Se observó una mejora en la colaboración interdepartamental y una mayor alineación con las necesidades de los clientes. 
+
+Se planificaron próximos pasos para futuros Sprints, incluida la incorporación de funcionalidades avanzadas, como la integración de medios sociales y la optimización de la experiencia móvil. 
+
+
+
+![GráficoDescripción generada automáticamente con confianza media](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.023.png) 
+
+![Interfaz de usuario gráficaDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.024.png) 
+
+![Imagen que contiene Interfaz de usuario gráficaDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.025.png) 
+
+![Imagen que contiene Escala de tiempoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.026.png) 
+
+![Captura de pantalla de computadoraDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.027.png) 
+
+5\.2.2.8. Team Collaboration Insights during Sprint 
+
+Comunicación: Utilizamos WhatsApp como nuestra principal herramienta de comunicación durante el Sprint. Esta elección puede ser efectiva, ya que WhatsApp permite la comunicación instantánea y la compartición de mensajes, archivos y enlaces de manera conveniente. Sin embargo, es importante asegurarse de que toda la información relevante se documente adecuadamente y esté accesible para todos los miembros del equipo, ya que WhatsApp no es una plataforma diseñada específicamente para la gestión de proyectos. 
+
+Cooperación: Nuestra colaboración durante el Sprint es activa y efectiva. Todos los miembros del equipo están comprometidos en alcanzar los objetivos del Sprint y trabajan juntos para lograrlo. La cooperación es fundamental para garantizar que las tareas se completen de manera eficiente y que se alcancen los resultados deseados. 
+
+Resolución de problemas: Durante el Sprint, consultamos la documentación de PrimeVue para resolver problemas técnicos o para obtener información sobre componentes y funcionalidades específicas. Esta es una práctica efectiva, ya que aprovecha los recursos disponibles y ayuda a abordar problemas de manera informada y basada en datos. 
+
+Distribución del trabajo: Hemos optado por asignar tareas por sorteo, lo que implica que las responsabilidades se distribuyen de manera equitativa entre los miembros del equipo. Esta estrategia puede promover la igualdad y la participación de todos, evitando la sobrecarga de trabajo en un solo individuo y fomentando una mayor colaboración. 
+
+Tiempo de entrega: Nos hemos puesto de acuerdo para establecer tiempos de entrega claros y realistas para las tareas y funcionalidades que abordamos durante el Sprint. Este enfoque es esencial para garantizar que se cumplan los plazos y que los resultados se entreguen de manera oportuna. 
+
+Retroalimentación: Nos damos retroalimentación constructiva de manera regular. Esta retroalimentación es esencial para el crecimiento y la mejora del equipo, ya que nos permite identificar áreas de mejora y hacer ajustes en nuestra forma de trabajar. Además, nos aseguramos de aplicar las mejoras basadas en esta retroalimentación para lograr un progreso continuo. 
+
+Coordinación: Todos los miembros del equipo han asumido roles específicos en el trabajo, lo que facilita la coordinación de las actividades. Esta asignación de roles garantiza que cada miembro tenga responsabilidades claras y definidas, lo que contribuye a una mayor eficiencia en el equipo. 
+
+Eficiencia: Todos hemos trabajado de manera eficiente, lo que significa que utilizamos nuestros recursos, tiempo y esfuerzos de manera efectiva para lograr los objetivos del Sprint. La eficiencia es fundamental para maximizar la productividad y minimizar el desperdicio de recursos. Nuestro enfoque en la colaboración y la distribución equitativa del trabajo también contribuye a nuestra eficiencia general como equipo. 
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.028.jpeg) 
+
+
+
+## 5\.2.3. Sprint 3  
+
+### 5\.2.3.1. Spring Planning 3.  
+
+|**Sprint #** |Sprint 3 |
+| :- | :- |
+|**Sprint Planning Background** ||
+|Date |2023-10-24 |
+|Time |11:00 am |
+|Location |Reunión virtual - Meet |
+|Prepared By |Jorge Ponce |
+|Attendees (to planning meeting) |Jorge Ponce, Alyne Regalado, Ricardo Maguiña,  Carlos Onofre y Jack Arana |
+|Sprint n – 1 Review Summary |Corrección de la Aplicación Web y hacerlo responsive |
+|Sprint n – 1 Retrospective Summary |Se alcanzaron las metas propuestas |
+|**Sprint Goal & User Stories** ||
+|Sprint 2 Goal |Avanzar el Backend (Web Services) y actualizar el documento acorde a nuestro avance |
+|Sprint n Velocity |30 Story Points |
+|Sum of Story Points |33 Story Points |
+
+
+
+### 5\.2.3.2. Sprint Backlog 3  
+
+
+
+|Sprint #   |Sprint 3 |||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story   |Work-Item / Task   |||||||
+|<p>   </p><p>   </p><p>Id   </p>|<p>   </p><p>   </p><p>Title   </p>|<p>   </p><p>   </p><p>Id   </p>|<p>   </p><p>   </p><p>Title   </p>|<p>   </p><p>   </p><p>Description   </p>|<p>   </p><p>   </p><p>Estimation (Hours)   </p>|<p>   </p><p>   </p><p>Assigned To   </p>|Status  |
+|TS01 |Configuración del Servidor   |TS01 |Configuración del Servidor   |Configuración del Servidor. |8 |Alyne |Done |
+|TS02 |Endpoint de Registro |TS02 |Endpoint de Registro |Como desarrollador, quiero crear un endpoint de registro para nuevos usuarios. |6 |Alyne |Done |
+|TS03 |Endpoint de inicio de sesión |TS03 |Endpoint de inicio de sesión s |Como desarrollador, quiero crear un endpoint de inicio de sesión para usuarios existentes. |6 |Jorge |Done |
+|TS04 |Endpoint de Búsqueda Avanzada |TS04 |Endpoint de Búsqueda Avanzada s |Como desarrollador, quiero crear un endpoint que permita a los usuarios realizar búsquedas avanzadas de servicios turísticos. |8 |Carlos |In Process |
+|TS05 |**Endpoint de Gestión de Empresas Locales** |TS05 |<p>**Endpoint de Gestión de Empresas Locales** </p><p> </p><p> </p>|Como desarrollador, quiero crear un endpoint que permita a las empresas locales gestionar su perfil y servicios a través de la API. |8 |Jack |In Process |
+|TS06 |Monitoreo y Registro de Errores |TS06 |Monitoreo y Registro de Errores |Como desarrollador, quiero implementar un sistema de registro de errores y monitoreo de la API para rastrear y resolver problemas de manera eficiente. |8 |Ricardo |<p>In Process </p><p> </p>|
+
+
+
+
+
+5\.2.3.3. Development Evidence for Sprint Review 
+
+<table><tr><th valign="top">` `<b>Repository</b> </th><th valign="top"><b>Branch</b> </th><th valign="top"><b>Commit Id</b> </th><th valign="top"><b>Commit Message</b> </th><th valign="top"><b>Commit Message Body</b> </th><th valign="top"><b>Commited on (Date)</b> </th></tr>
+<tr><td rowspan="13" valign="top"><p>https://github.com/App-Web-Grupo3/Backend </p><p> </p><p> </p></td><td valign="top"><p>main </p><p> </p></td><td valign="top"><p>cc4ef1b </p><p> </p></td><td valign="top"><p>First commit </p><p> </p></td><td valign="top"><p>Inicialización del proyecto </p><p> </p></td><td valign="top"><p>23/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p>main </p><p> </p><p> </p></td><td valign="top"><p>8335b86 </p><p> </p></td><td valign="top"><p>Installation of dependencies </p><p> </p></td><td valign="top"><p>Configurando el proyecto </p><p> </p></td><td valign="top"><p>23/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>main </p><p> </p></td><td valign="top"><p>be17ede </p><p> </p></td><td valign="top"><p>Return functions </p><p> </p></td><td valign="top"><p>Siguiendo con la configuración </p><p> </p></td><td valign="top"><p>24/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>develop </p><p> </p></td><td valign="top"><p>a543a05 </p><p> </p></td><td valign="top"><p>Create branch develop </p><p> </p></td><td valign="top"><p>Creación de la branch donde vamos a trabajar </p><p> </p></td><td valign="top"><p>24/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>develop </p><p> </p></td><td valign="top"><p>6e349b6 </p><p> </p></td><td valign="top"><p>Creating insert functions </p><p> </p></td><td valign="top"><p>Configurando el proyecto en la rama develop </p><p> </p></td><td valign="top"><p>24/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>feature-Representative </p><p> </p></td><td valign="top"><p>925e70e </p><p> </p></td><td valign="top"><p>Complete CRUD </p><p> </p></td><td valign="top"><p>Creación del endpoint Representative </p><p> </p></td><td valign="top"><p>24/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>develop </p></td><td valign="top"><p>e7cfa4e </p><p> </p></td><td valign="top"><p>New Settings </p><p> </p></td><td valign="top"><p>Nuevas configuraciones a agregar </p><p> </p></td><td valign="top"><p>24/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p> </p><p>main </p></td><td valign="top"><p>1b85c96 </p><p> </p></td><td valign="top"><p>Feat add Tourist </p><p> </p></td><td valign="top"><p>Creación del endpoint Tourist, por error se trabajó en el main </p><p> </p></td><td valign="top"><p>26/10/23 </p><p> </p></td></tr>
+<tr><td valign="top">develop </td><td valign="top"><p>5a71410 </p><p> </p></td><td valign="top"><p>Merge branch 'main' into develop </p><p> </p></td><td valign="top">Merge del endpoint Tourist a la branch develop </td><td valign="top">27/10/23 </td></tr>
+<tr><td valign="top"><p>feature-Response </p><p> </p></td><td valign="top"><p>d0ea414 </p><p> </p></td><td valign="top"><p>feat add response </p><p> </p></td><td valign="top"><p>Creación del endpoint Response </p><p> </p></td><td valign="top"><p>27/10/23 </p><p> </p></td></tr>
+<tr><td valign="top">develop </td><td valign="top"><p>d028252 </p><p> </p></td><td valign="top">Update </td><td valign="top"><p>Actualización del endpoint Representative  </p><p> </p></td><td valign="top">27/10/23 </td></tr>
+<tr><td valign="top">develop </td><td valign="top"><p>25e46b8 </p><p> </p></td><td valign="top"><p>feat add references to Response </p><p> </p></td><td valign="top"><p>Actualización del endpoint Response </p><p> </p></td><td valign="top"><p>28/10/23 </p><p> </p></td></tr>
+<tr><td valign="top"><p>feature-Company </p><p> </p></td><td valign="top"><p>2b4f7dc </p><p> </p></td><td valign="top"><p>feat add company </p><p> </p></td><td valign="top"><p>Creación del endpoint Company </p><p> </p></td><td valign="top"><p>28/10/23 </p><p> </p></td></tr>
+</table>
+
+
+
+
+
+5\.2.3.4. Testing Suite Evidence for Sprint Review 
+
+En esta entrega del proyecto se han realizado pruebas unitarias para verificar y validar el funcionamiento de ciertas funciones o componentes del código. Las pruebas unitarias son una parte importante del proceso de desarrollo de software, ya que ayudan a identificar y corregir posibles problemas a nivel de código antes de que se integren con otros componentes. 
+
+
+
+**Pruebas unitarias para RepresentanteController** 
+
+![TextoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.029.png)
+
+En el contexto de nuestro proyecto, hemos implementado un controlador llamado **RepresentanteController** que se encarga de gestionar representantes. Este controlador utiliza el mapeo de objetos y se comunica con un dominio (IRepresentanteDomain) para realizar diversas operaciones. Ente caso se realizó la prueba de las funciones GetById y PostAsync.  
+
+
+
+
+
+![Captura de pantalla de un celularDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.030.png) 
+
+**Pruebas unitarias para TouristController** 
+
+
+
+Se ha elaborado un controlador TouristController para gestionar información de los Turistas. Estas pruebas se han diseñado para cubrir diversas funcionalidades del controlador, incluyendo la obtención de listas de turistas, la obtención de turistas por nombre o número de teléfono, la creación y actualización de turistas, y la eliminación de registros.  
+
+![Captura de pantalla de un celularDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.031.png)
+
+![TextoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.032.png)  
+
+**Pruebas unitarias para TouristDomain** 
+
+
+
+La capa de dominio desempeña un papel fundamental al gestionar la lógica de negocio y las operaciones relacionadas con los datos. En nuestro proyecto, hemos creado una clase llamada **TouristDomain** que encapsula la lógica de negocio para la gestión de turistas. Para asegurarnos de que esta capa funcione correctamente y produzca resultados coherentes, hemos desarrollado un conjunto de pruebas unitarias. 
+
+![Interfaz de usuario gráfica, TextoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.033.png) 
+
+![TextoDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.034.png) 
+
+
+
+5\.2.3.5. Execution Evidence for Sprint Review 
+
+En este entregable, avanzamos en el desarrollo de nuestro backend para implementar la lógica de negocio y establecer la conexión con la base de datos. Además, llevamos a cabo pruebas unitarias para validar las funcionalidades. 
+
+Adicional a ello, como parte de la mejora continua, nuestro equipo llevó a cabo la finalización del desarrollo del front-end y su respectivo despliegue. Para esta tarea, hicimos uso de la plataforma Firebase. Firebase es una plataforma integral para el desarrollo de aplicaciones móviles y web, que proporciona una amplia gama de servicios. En este escenario específico, empleamos Firebase Hosting para lanzar nuestro sitio web de front-end. 
+
+
+**Backend**  
+
+
+
+En este caso estamos utilizando Swagger y MySQL Workbench en conjunto, para asegurarnos de que nuestro backend esté correctamente implementado y se comunique eficazmente con la base de datos MySQL. Swagger nos ayuda a probar y documentar la API del backend, mientras que MySQL Workbench nos permitirá administrar la base de datos subyacente. Ambas herramientas desempeñan un papel importante en el desarrollo y prueba de nuestra aplicación. 
+
+
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.035.png) 
+
+![Una captura de pantalla de una red socialDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.036.png) 
+
+
+
+A manera de prueba, se realizará solicitudes de la entidad **representative** 
+
+- ![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.037.png)**POST : Dos solicitudes**  
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.038.png) 
+
+Observamos, por medio del Workbench, el correcto resultado a la solicitud.  
+
+![Interfaz de usuario gráfica, Aplicación, WordDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.039.png) 
+
+- ![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.040.png)**GETALL**  
+
+
+
+- **GET ID** 
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.041.png) 
+
+
+
+
+
+- **DELETE** 
+
+![Interfaz de usuario gráficaDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.042.png) 
+
+![ref1]**    **Mejora continua:  Despliegue del front-end** 
+
+
+
+Front-end desplegado: <https://unique-trips.web.app/> 
+Es importante destacar que existe una conexión entre la aplicación web y la página de inicio.  
+
+1° Podemos observar la página de inicio (landing page) desplegada. 
+
+
+
+
+
+
+
+2° Notamos la presencia del botón que establece la conexión entre la página de inicio y la aplicación web.  
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.044.jpeg) 
+
+
+
+3°Al hacer clic en el botón "Iniciar sesión", se dirigirá al usuario a la pantalla de inicio de sesión o registro, y posteriormente lo redirigirá a la interfaz adecuada (Truista o Empresa). 
+
+![Interfaz de usuario gráficaDescripción generada automáticamente](Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.045.png)
+
+![ref1]
+
+Hemos desplegado el fornt-end en Firebase, pero aún no hemos establecido la integración con el backend. En la página de inicio de sesión, hemos creado una funcionalidad provisional donde los usuarios pueden presionar el botón "Iniciar sesión", lo que los redirige a la pantalla de Turista. 
+
+
+
+
+
+A continuación se presenta las funcionalidades de Turista 
+
+- Pantalla principal. 
+- Lista de servicios favoritos 
+
+
+
+- Pago 
+
+
+
+
+
+- Lista de servicios contratados 
+
+
+
+
+
+
+
+- ![ref1]Visualización de cada servicio 
+
+
+
+- Calculadora 
+
+En el caso de la redirección a la pantalla de Empresa, se logra al seleccionar "Registrarme" de la pantalla “Unite a Unique Trips”.  
+
+
+
+
+
+- Agregar un servicio 
+
+
+
+
+
+Esta implementación es sencilla ya que no estamos utilizando aún el backend ni la base de datos para gestionar la autenticación y el registro de usuarios. La decisión se ha tomado como una fase inicial en el desarrollo, pero es importante destacar que esta funcionalidad será mejorada y conectada con el backend en la etapa posterior del proyecto. 
+
+
+
+
+
+
+
+5\.2.3.6. Services Documentation Evidence for Sprint Review 
+
+En esta parte, se muestran los puntos de acceso que se han creado durante el sprint actual, junto con imágenes que ilustran las operaciones de creación, lectura, actualización y eliminación realizadas mediante OpenAPI. Durante este sprint, se han trabajado en los Bounded Countext: Account, Catalog, Ubication y Payment. 
+
+Enlace al repositorio de la API en Github: [App-Web-Grupo3/Backend (github.com)](https://github.com/App-Web-Grupo3/Backend) 
+
+
+
+|Bounded Context |Account ||
+| :- | :- | :- |
+|Entity |EndPoint |Swagger |
+|Tourist |/api/v1/tourist |![ref1] |
+|Company |/api/v1/company |` `![ref1] |
+|Represent |/api/v1/representante |![ref1] |
+
+
+
+|Bounded Context |Catalog ||
+| :- | :- | :- |
+|Entity |EndPoint |Swagger |
+|Activities |/api/v1/activities |![ref1] |
+|Images |/api/v1/images |![ref1] |
+|Favorites |/api/v1/favorites |` `![ref1] |
+
+
+
+|Bounded Context |Ubication ||
+| :- | :- | :- |
+|Entity |EndPoint |Swagger |
+|Comment |/api/v1/comment |  |
+|Answer |/api/v1/answer |![ref1] |
+
+
+
+|Bounded Context |Payment ||
+| :- | :- | :- |
+|Entity |EndPoint |Swagger |
+|Purchase detail |/api/v1/purchase-detail |  |
+
+
+
+5\.2.3.7. Software Deployment Evidence for Sprint Review 
+
+Al igual que en el segundo sprint, se siguió utilizando el servicio de Firebase para el caso del [Frontend Web Application](https://github.com/App-Web-Grupo3/Web-Application-FrontEnd). 
+
+Por otro lado, no se ha podido realizar el despliegue del Backend RESTful API con el servicio gratuito de Azure debido a una suspensión de clase inesperada. 
+
+
+
+5\.2.3.8. Team Collaboration Insights during Sprint 
+
+Comunicación: En el transcurso del Sprint, hemos optado por utilizar WhatsApp como nuestra principal herramienta de comunicación. Esta elección ha demostrado ser efectiva, ya que WhatsApp nos permite mantener una comunicación instantánea y compartir mensajes, archivos y enlaces de manera conveniente. No obstante, es crucial garantizar que toda la información relevante esté debidamente documentada y accesible para todos los miembros del equipo, ya que WhatsApp no está diseñado específicamente para la gestión de proyectos. 
+
+Cooperación: La colaboración en nuestro equipo ha sido activa y eficaz a lo largo del Sprint. Todos los miembros del equipo están plenamente comprometidos en la consecución de los objetivos establecidos y trabajan de manera conjunta para alcanzarlos. La cooperación desempeña un papel fundamental en asegurar que las tareas se completen de manera eficiente y que se alcancen los resultados deseados. 
+
+Resolución de problemas: Cuando se han presentado desafíos técnicos o se ha necesitado información sobre componentes y funcionalidades específicas durante el Sprint, hemos recurrido a la documentación correspondiente. Esta práctica se ha mostrado efectiva al aprovechar los recursos disponibles y abordar los problemas de manera informada y basada en datos. 
+
+Distribución del trabajo: Hemos optado por asignar tareas de manera aleatoria, lo que implica que las responsabilidades se distribuyen equitativamente entre todos los miembros del equipo. Esta estrategia promueve la igualdad y la participación de todos, evitando la sobrecarga de trabajo en un solo individuo y fomentando una mayor colaboración. 
+
+Tiempo de entrega: Hemos acordado establecer plazos de entrega claros y realistas para las tareas y funcionalidades que hemos abordado en el Sprint. Este enfoque es esencial para garantizar que se cumplan los plazos y que los resultados se entreguen de manera puntual. 
+
+Retroalimentación: Nos hemos comprometido a proporcionarnos retroalimentación constructiva de manera regular. Esta retroalimentación es esencial para el crecimiento y la mejora de nuestro equipo, ya que nos permite identificar áreas de mejora y realizar ajustes en nuestra forma de trabajar. Además, nos aseguramos de aplicar las mejoras basadas en esta retroalimentación para lograr un progreso continuo. 
+
+Coordinación: Cada miembro del equipo ha asumido roles específicos en nuestras actividades, lo que ha facilitado la coordinación de nuestras acciones. Esta asignación de roles garantiza que cada miembro tenga responsabilidades claras y definidas, lo que contribuye a una mayor eficiencia en el equipo. 
+
+Eficiencia: Hemos trabajado de manera eficiente durante el Sprint, optimizando el uso de nuestros recursos, tiempo y esfuerzos para alcanzar los objetivos establecidos. La eficiencia es fundamental para maximizar la productividad y minimizar el desperdicio de recursos. Nuestro enfoque en la colaboración y la distribución equitativa del trabajo también ha contribuido a nuestra eficiencia general como equipo. 
+
+
+
+
+
+Enlace de GitHub donde se se encuentra el trabajo: 
+
+Front-end: <https://github.com/App-Web-Grupo3/Web-Application-FrontEnd>  
+
+![ref1] 
+
+Backend:  
+
+<https://github.com/App-Web-Grupo3/Backend> 
+
+![ref1] 
+
+
+
+# 5\.3. Validation Interviews 
+
+## 5\.3.1. Diseño de Entrevistas 
+
+Preguntas Generales  
+
+- ¿Cuál es su nombre completo? 
+- ¿Cuál es su edad?  
+- ¿A qué se dedica actualmente?  
+- ¿Cuáles son los dispositivos que usas principalmente? 
+- ¿Le es fácil adaptarse al funcionamiento de sitios web o aplicativos móviles? 
+- ¿Qué buscadores te son conocidos? ¿Google Chrome, Firefox, Edge? 
+
+Trurista 
+
+- ¿Qué opina con respecto de la página de inicio, cumple con los requisitos que se le prometió?  
+- ¿Considera que los filtros mejoran la facilidad de búsqueda de forma efectiva de la plataforma? 
+- ¿Le parece sencillo visualizar los detalles de los servicios en venta en nuestra plataforma? 
+- Después de haber revisado la plataforma, ¿Cree que el diseño de la plataforma es atractivo visualmente y es sencillo de utilizar? 
+- ¿Crees que UniqueTrip podría tener un gran impacto positivo al facilitar y ser seguro al buscar servicios y conocer más lugares? 
+- ¿Estarías dispuesto/a a utilizar UniqueTrip como plataforma para realizar tus busquedas? Si es así, ¿por qué tomarías esa decisión? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Empresa 
+
+- ¿Qué te pareció nuestra plataforma? 
+- ¿Consideras que la presentación de los servicios es clara y atractiva? 
+- ¿Consideras que es sencillo el publicar sus servicios? 
+- ¿Cómo calificarías la funcionalidad de nuestra plataforma? 
+- Luego de haber revisado la plataforma ¿Recomendarías UniqueTrip a otros emprendedores? ¿Por qué? 
+- ¿Hay algún aspecto en particular que te gustaría destacar o mejorar sobre nuestra plataforma? 
+- ¿Tienes alguna otra sugerencia, comentario o pregunta sobre UniqueTrip? 
+
+
+
+
+
+## 5\.3.2. Registro de Entrevistas 
+
+Entrevista 1: 
+
+Entrevistador: Carlos Jesus Onofre 
+Entrevistado / Invitado: Favio Morales 
+
+![ref1] 
+
+
+
+**Resumen:**  
+
+En la entrevista nos comenta Favio que brinda servicio turisticos con su padre en la ciudad de Huacho, le comentamos acerca de nuestra app web y nos menciono que le gustó ya que es una buena manera de promocionar sus servicios, tambien que es intuitiva y sencilla de usar. Una de las maneras que en podriamos mejorar es en la paleta de colores que sea mas llamativa y la confiabilidad para que los turistas se sientan seguros de la informacion, y que si lo compartiria con sus contactos. 
+
+
+
+**Enlace de la Entrevista: [https://youtu.be/9EFtPPIiEo0**](https://youtu.be/9EFtPPIiEo0)** 
+
+
+
+
+
+ENTREVISTA 2:  
+
+Entrevistador: Alyne Nayely Regalado Morales 
+
+![ref1]Entrevistado: Sofia Ramirez Alarcon 
+
+
+
+**Resumen:** 
+
+La entrevistada tiene una opinión positiva sobre la plataforma UniqueTrip. Considera que la página de inicio cumple con los requisitos prometidos, encuentra que los filtros mejoran la búsqueda y la visualización de los detalles de los servicios es sencilla. Además, destaca el diseño atractivo y la facilidad de uso de la plataforma. Cree que UniqueTrip podría tener un gran impacto positivo al facilitar la búsqueda de servicios turísticos y explorar lugares nuevos. Estaría dispuesto a utilizar UniqueTrip debido a la combinación de factores, como la facilidad de búsqueda, el diseño atractivo y las características disponibles, como la lista de favoritos y la capacidad de pago. En general, ve a UniqueTrip como una plataforma atractiva y eficiente para satisfacer sus necesidades turísticas. 
+
+
+
+**Enlace del video: <https://drive.google.com/file/d/1xPbOoAJZgDKHviQ66CeZIDnTgs27u38t/view?usp=sharing>**  
+
+
+
+ENTREVISTA 3:  
+
+Entrevistador: Ricardo Jesus Maguiña Corzo 
+
+![ref1] 
+
+Entrevistado: Miguel Junior Lorenzo Padilla 
+
+
+
+**Resumen:** 
+
+La entrevistada tiene una perspectiva sumamente favorable acerca de UniqueTrip. Opina que la página de inicio cumple sobradamente con las promesas y requisitos, valora de manera significativa la mejora que los filtros aportan a la búsqueda y la facilidad para visualizar los detalles de los servicios. Asimismo, resalta el diseño atractivo y la gran sencillez de uso de la plataforma. Considera que UniqueTrip podría tener un impacto profundamente positivo al simplificar la búsqueda de servicios turísticos y la exploración de nuevos destinos. Estaría encantada de utilizar UniqueTrip debido a la combinación de factores, tales como la facilidad de búsqueda, el diseño atractivo y las características disponibles, como la lista de favoritos y la conveniencia del proceso de pago. En resumen, percibe a UniqueTrip como una plataforma extraordinariamente atractiva y eficaz para satisfacer completamente sus necesidades como turista. 
+
+**Enlace del video: [https://drive.google.com/drive/folders/1biLdGrtf0txlNsvja87YjBodhCwhu6cK?usp=sharing**](https://drive.google.com/drive/folders/1biLdGrtf0txlNsvja87YjBodhCwhu6cK?usp=sharing)** 
+
+
+
+
+
+
+
+## 5\.3.3. Evaluaciones según heurísticas 
+
+Visibilidad del estado del sistema.  
+
+El diseño nos proporciona información importante sobre las distintas funciones del sitio web. Además, la interfaz sencilla ayuda a la rápida comprensión y fácil uso de las distintas funciones que ofrece.  
+
+
+
+Flexibilidad y eficiencia de uso.  
+
+El sitio web cuenta con botones con iconos que proporcionan un acceso directo a las diferentes funciones.  
+
+
+
+Control y libertad del usuario 
+
+Contamos con botones para retroceder en caso de que haya realizado alguna acción de manera involuntaria, como por ejemplo si es que el usuario presiona el botón crear cuenta, cuando en realidad su intención era acceder con su usuario y contraseña.  
+
+
+
+Ayuda y documentación  
+
+Si bien la interfaz de usuario es sencilla, se podría habilitar un tutorial para explicar los métodos de cómo realizar con éxito sus reservas, incluso están nuestras redes sociales para cualquier otra duda.  
+
+
+
+Diseño estético y minimalista.  
+
+Solo se muestra información relevante, la cual trata de los destinos populares y promociones.  
+
+
+
+Coincidencia entre el sistema y el mundo real  
+
+El lenguaje es formal y comprensible para todos los usuarios que utilizan nuestro sitio web.  
+
+
+
+Según AI Heurísticas  
+
+¿Se puede encontrar?: Los usuarios pueden encontrar fácilmente la función que deseen gracias a los iconos representativos.  
+
+¿Es accesible?: Se está realizando un prototipo para IOS y Android.  
+
+¿Está limpio?: Todas las funciones que añadimos y sus representaciones gráficas son sencillos lo que permiten un fácil entendimiento para cualquier usuario.  
+
+¿Es comunicativo?: Si, mas que nada las etiquetas le dan una idea de que es lo que el usuario quiere hacer, puede ser sus reservas, promociones y más.  
+
+¿Es utilizable?: Si, gracias a la interfaz y al rápido acceso a las reservas que vaya a hacer.  
+
+¿Es creíble?: El contenido se está actualizando para reparar errores y agregar nuevas funciones.  
+
+¿Es controlable?: Si, todas las funciones están disponibles para que el usuario ingrese y pueda realizar la acción que desee en el sitio web.  
+
+¿Es valioso?: Si, ya que con este sitio web muchos usuarios ahorran tiempo, evitarían estafas ya que es muy seguro nuestro sitio web.  
+
+¿Se puede aprender?: Si, es una interfaz sencilla para que cualquier usuario pueda usarla.  
+
+¿Es delicioso?: Viajes únicos es un sitio web muy útil y que potencialmente ayuda a las personas a encontrar viajes cómodos y seguros. 
+
+
+# 5\.4. Video About-the-Product. 
+
+![ref1] 
+
+URL MICROSOFT STREAM: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121858_upc_edu_pe/ETy43fr4PtxDl-wfr-ix_SgBSJujFja1MkKiyc-jxrU0zQ?e=uoyof3> 
+
+URL YOUTUBE: <https://youtu.be/Gi_1RiPe4vY> 
+
+DURACIÓN: 04:15 
+
+
+# **Conclusiones** 
+
+- Una página web bien diseñada y fácil de usar proporciona una experiencia agradable para los usuarios. Pueden buscar y comparar destinos, ver opciones de alojamiento, leer reseñas de otros viajeros y realizar reservas de manera rápida y sencilla. Esto mejora la satisfacción del cliente y fomenta la fidelidad hacia la agencia. 
+
+- Con una página web, la agencia de viajes puede automatizar muchos procesos, como la gestión de reservas, el envío de confirmaciones por correo electrónico, la emisión de boletos electrónicos, entre otros. Esto reduce la carga de trabajo manual y agiliza las operaciones. 
+
+- Una página web para una agencia de viajes brinda beneficios significativos, como mayor accesibilidad, mejor experiencia de usuario, promoción efectiva, automatización de procesos y análisis de datos. Esto contribuye a fortalecer la presencia de la agencia en línea y a mejorar la satisfacción del cliente. 
+
+
+# **Bibliografía** 
+
+Arimany, L. (2010). *La Cadena de Valor*. Recuperado de:[ ](https://www.luisarimany.com/la-cadena-de-valor/)<https://www.luisarimany.com/la-cadena-de-valor/> [Consulta: 28 de junio de 2022]. 
+
+Computrabajo. (2022). *¿Cuál es el sueldo de Técnico/a de soporte?*.Recuperado de:[ ](https://www.computrabajo.com.pe/salarios/tecnicoa-de-soporte)<https://www.computrabajo.com.pe/salarios/tecnicoa-de-soporte> [Consulta: 27 de junio de 2022]. 
+
+De la Cruz, I. (s.f.). Gestión de Recursos Humanos. Recuperado de[ ](https://bit.ly/2AvVG7D)<https://bit.ly/2AvVG7D> [Consulta: 1 de julio de 2022]. 
+
+Diario del exportador. (s.f.). *El Marketing Mix: Plaza*. Recuperado de[ ](https://bit.ly/2B0gPHb)<https://bit.ly/2B0gPHb> [Consulta: 30 de junio de 2022]. 
+
+Emprendepyme.net. (27 de octubre de 2017). ¿Qué es el plan de recursos humanos? [Entrada en blog] . Recuperado de[ ](https://bit.ly/3eJ7LoT)<https://bit.ly/3eJ7LoT> [Consulta: 2 de julio de 2022]. 
 
 Emprendepyme.net. (2017). Plan de operaciones [Entrada en blog]. Recuperado de[ ](https://bit.ly/3eyy1lP)<https://bit.ly/3eyy1lP> [Consulta: 30 de junio de 2022].
 
+Fernández, C. y Aqueveque, C. (2001). Segmentación de mercados: buscando la correlación entre variables psicológicas y demográficas. *Revista Colombiana de Marketing*, 2(2), 1- 14. Recuperado de[ ](https://www.redalyc.org/pdf/109/10900204.pdf)<https://www.redalyc.org/pdf/109/10900204.pdf> [Consulta: 1 de julio de 2022] 
+
+Kotler, P. & Armstrong, G. (2013). Fundamentos de Marketing [Archivo PDF].[ ](https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf)<https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf> [Consulta: 30 de junio de 2022] 
+
+Moyano, E. (2015). *Plan de Negocios*. Editorial Macro:[ ](https://books.google.es/books?hl=es&lr=&id=j7wtDwAAQBAJ&oi=fnd&pg=PT5&d#v=onepage&q&f=false)<https://books.google.es/books?hl=es&lr=&id=j7wtDwAAQBAJ&oi=fnd&pg=PT5&d#v=onepage&q&f=false>[Consulta: 30 de junio de 2022] 
 
 
-Fernández, C. y Aqueveque, C. (2001). Segmentación de mercados: buscando la correlación entre variables psicológicas y demográficas. *Revista Colombiana de Marketing*, 2(2), 1- 14. Recuperado de[ ](https://www.redalyc.org/pdf/109/10900204.pdf)<https://www.redalyc.org/pdf/109/10900204.pdf> [Consulta: 1 de julio de 2022]
+# **Anexos**
 
 
-
-Kotler, P. & Armstrong, G. (2013). Fundamentos de Marketing [Archivo PDF].[ ](https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf)<https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf> [Consulta: 30 de junio de 2022]
-
-
-
-
-
-Moyano, E. (2015). *Plan de Negocios*. Editorial Macro:[ ](https://books.google.es/books?hl=es&lr=&id=j7wtDwAAQBAJ&oi=fnd&pg=PT5&d#v=onepage&q&f=false)<https://books.google.es/books?hl=es&lr=&id=j7wtDwAAQBAJ&oi=fnd&pg=PT5&d#v=onepage&q&f=false>[Consulta: 30 de junio de 2022]
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="_toc144562125"></a>**
-
-**Anexos** 
-
-
-|**Sección**|**Características del video**|**Sobre el contenido**|**Entrega**|
+|**Sección** |**Característica** |**Sobre el contenido** |**Entrega** |
 | :-: | :-: | :-: | :-: |
-|- Startup profile<br>` `- Solution profile|Cantidad de videos: 1<br>` `Nomenclatura: upc-pre-<SS35>-< ConduFácil ><br>` `Formato: mp4<br>` `Duración: 8 - 12 min|Describe el perfil de la startup y también la solución propuesta frente a los antecedentes y problemática.<br>Describe el Lean UX Process|<p>LINK DEL VIDEO TB1 : <https://drive.google.com/file/d/18YyZwfEgiQZZJlZBzIVqNdKCsysnWX-A/view?usp=sharing></p><p></p><p> </p>|
+|- Startup profile <br>- Solution profile |Cantidad de videos: 1 <br>Nomenclatura: upc-pre-<SS35>-< ConduFácil > <br>Formato: mp4 <br>Duración: 8 - 12 min |Describe el perfil de la startup y también la solución propuesta frente a los antecedentes y problemática. <br>Describe el Lean UX Process |<p>LINK DEL VIDEO TB1 : <https://drive.google.com/file/d/18YyZwfEgiQZZJlZBzIVqNdKCsysnWX-A/view?usp=sharing> </p><p> </p><p>  </p>|
+|Landing Page |Se encuentra dentro de nuestro repositorio |-------------------------------- |https://github.com/Thealaskage/UniqueTrip-LandingPage |
+|**Repositorio** |**--------------------** |**-----------------------------** |<p>[**https://github.com/App-Web-Grupo3**](https://github.com/App-Web-Grupo3) </p><p> </p><p>[**https://github.com/App-Web-Grupo3/Backend**](https://github.com/App-Web-Grupo3/Backend) </p><p> </p>|
 
 
-
-
-
-
-
-
-145
-
-[ref1]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.002.png
-[Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.075.png
-[ref2]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.104.png
-[ref3]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.106.png
-[ref4]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.108.png
-[ref5]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.111.png
-[ref6]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.117.png
-[ref7]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.118.png
-[ref8]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.119.png
-[ref9]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.124.png
-[ref10]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.128.png
-[ref11]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.129.png
-[ref12]: Aspose.Words.5413cea3-7788-44fe-a0a8-bf1c9d38762a.130.png
+[ref1]: Aspose.Words.3bece8c9-f177-4bcd-93c0-696621ade033.043.png
